@@ -1,6 +1,4 @@
 # Website
 Meu Primeiro site feito em html
 
-<hr>
-
-Logo mais irei fazer um CSS pra ele 
+Logo mais vou fazer um CSS pra ele
